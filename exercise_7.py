@@ -7,5 +7,6 @@
 # Write a program to find how many times substring “Emma” appears in the given string.
 
 # assign variable
+word = str("Via is really into fashion these days. Hence, Via buy more clothes everyday.")
 
 # create logic using count
