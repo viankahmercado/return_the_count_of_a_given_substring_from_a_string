@@ -8,5 +8,8 @@
 
 # assign variable
 word = str("Via is really into fashion these days. Hence, Via buy more clothes everyday.")
+print(word)
 
 # create logic using count
+count = word.count("Via")
+print("Via appeared", count, "times")
